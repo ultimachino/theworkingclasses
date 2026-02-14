@@ -1,15 +1,15 @@
 {
     "type": "code",
-    "modid": "theworkingclasses",
-    "name": "The Working Classes",
+    "modid": "theworkingclassesvinfaru",
+    "name": "The Working Classes - Vinfaru Patch",
     "authors": [
         "Vivi_IX"
     ],
     "description": "Adds profession based classes to Vintage story. Pick a profession and work alongside your fellows, or take on the world alone in a new way",
-    "version": "1.0.3",
+    "version": "1.0.5",
     "dependencies": {
         "game": "",
-        "traitacquirer": "0.9.6",
+        "traitacquirermoddedclasses": "0.9.9",
         "em": "3.0.0"
     }
 }
