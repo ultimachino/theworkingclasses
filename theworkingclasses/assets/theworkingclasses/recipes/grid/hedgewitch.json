@@ -41,19 +41,7 @@
 			},
 			"B": {
 				"type": "block",
-				"code": "game:bowl-{color}-fired",
-				"allowedVariants": [
-					"cream",
-					"gray",
-					"black",
-					"blue",
-					"tan",
-					"orange",
-					"red",
-					"brown",
-					"fire"
-				],
-				"name": "color"
+				"code": "game:bowl-fired"
 			}
 		},
 		"attributes": {
@@ -138,19 +126,7 @@
 			},
 			"B": {
 				"type": "block",
-				"code": "game:bowl-{color}-fired",
-				"allowedVariants": [
-					"cream",
-					"gray",
-					"black",
-					"blue",
-					"tan",
-					"orange",
-					"red",
-					"brown",
-					"fire"
-				],
-				"name": "color"
+				"code": "game:bowl-fired"
 			}
 		},
 		"attributes": {
@@ -211,19 +187,7 @@
 			},
 			"B": {
 				"type": "block",
-				"code": "game:bowl-{color}-fired",
-				"allowedVariants": [
-					"cream",
-					"gray",
-					"black",
-					"blue",
-					"tan",
-					"orange",
-					"red",
-					"brown",
-					"fire"
-				],
-				"name": "color"
+				"code": "game:bowl-fired"
 			}
 		},
 		"attributes": {

@@ -10,19 +10,7 @@
 			},
 			"C": {
 				"type": "block",
-				"code": "game:crock-{color}-fired",
-				"allowedVariants": [
-					"cream",
-					"gray",
-					"black",
-					"blue",
-					"tan",
-					"orange",
-					"red",
-					"brown",
-					"fire"
-				],
-				"name": "color"
+				"code": "game:crock-burned-*"
 			},
 			"T": {
 				"type": "item",
