@@ -107,7 +107,7 @@
 			},
 			"F": {
 				"type": "item",
-				"code": "game:fat"
+				"code": "game:fat-rendered"
 			},
 			"A": {
 				"type": "block",
@@ -167,7 +167,7 @@
 			},
 			"F": {
 				"type": "item",
-				"code": "game:fat",
+				"code": "game:fat-rendered",
 				"quantity": 1
 			}
 		},
@@ -223,7 +223,7 @@
 			},
 			"F": {
 				"type": "item",
-				"code": "game:fat",
+				"code": "game:fat-rendered",
 				"quantity": 1
 			}
 		},
@@ -276,7 +276,7 @@
 			},
 			"F": {
 				"type": "item",
-				"code": "game:fat"
+				"code": "game:fat-rendered"
 			}
 		},
 		"width": 3,
@@ -313,7 +313,7 @@
 			},
 			"F": {
 				"type": "item",
-				"code": "game:fat"
+				"code": "game:fat-rendered"
 			}
 		},
 		"width": 3,
@@ -349,7 +349,7 @@
 			},
 			"F": {
 				"type": "item",
-				"code": "game:fat"
+				"code": "game:fat-rendered"
 			}
 		},
 		"width": 3,

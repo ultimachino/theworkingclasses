@@ -6,10 +6,10 @@
         "Vivi_IX"
     ],
     "description": "Adds profession based classes to Vintage story. Pick a profession and work alongside your fellows, or take on the world alone in a new way",
-    "version": "1.0.5",
+    "version": "1.0.6",
     "dependencies": {
         "game": "",
-        "traitacquirermoddedclasses": "0.9.9",
-        "em": "3.0.0"
+        "traitacquirermoddedclasses": "0.9.13",
+        "em": "3.7.0"
     }
 }
